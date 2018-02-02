@@ -4,4 +4,5 @@
 * Page Empty
 * [Page 1](page-1.md)
 * [Page 2](page-2.md)
+* [Child of empty page](child-of-empty-page.md)
 
