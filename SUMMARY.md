@@ -1,6 +1,6 @@
 # Table of contents
 
-* gitbook-test4
+* [gitbook-test4](README.md)
 * Page Empty
 * [Page 1](page-1.md)
 
